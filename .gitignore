@@ -57,3 +57,16 @@ typings/
 # dotenv environment variables file
 .env
 
+.node_repl_history
+.idea/
+e2e
+src/
+test/
+build/
+config/
+dist/launcher
+dist/static
+dist/sw
+dist/sw.js
+dist/manifest.json
+dist/index*
